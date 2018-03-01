@@ -4,5 +4,9 @@
 <dict>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>b</key>
+	<string>b.glif</string>
+	<key>e</key>
+	<string>e.glif</string>
 </dict>
 </plist>
